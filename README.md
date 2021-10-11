@@ -1,1 +1,2 @@
 # Recurrent neural networks and text generation samples
+This repository contains the materials used for teaching the RNN workshop and code lab at Pink Programmings ML Camp in August 2021. The purpose of the files is to firstly read through the theory together and do a small example project (seen in the theory notebook) and then use the other notebook to independently create a similar text-generation model using input data from https://www.gutenberg.org/. 
